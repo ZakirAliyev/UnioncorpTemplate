@@ -1,0 +1,68 @@
+#caseStudies {
+  padding: 128px 0;
+  text-align: center;
+
+  .title {
+    max-width: 573px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+
+    h2 {
+      font-size: 13px;
+      margin: 0 0 5px;
+      color: #8C8C8C;
+      font-weight: 500;
+    }
+
+    h3 {
+      font-size: 38px;
+      font-weight: 500;
+      margin: 0 0 64px;
+    }
+  }
+
+  .row1 {
+    .box1 {
+      img {
+        width: 100%;
+        height: 100%;
+      }
+
+      padding: 0 !important;
+    }
+  }
+
+  #caseStudies1 {
+    padding: 60px 0;
+    background-image: url("https://preview.colorlib.com/theme/unioncorp/images/bg_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #4f86c1;
+    background-blend-mode: multiply;
+    color: white;
+
+    .row2 {
+      justify-content: center;
+    }
+
+    h6 {
+      font-size: 13px;
+      margin: 0 0 5px;
+    }
+
+    p {
+      font-size: 38px;
+      margin: 0 0 24px;
+    }
+
+    h4 {
+      font-size: 44px;
+    }
+
+    h5 {
+      font-size: 14px;
+    }
+  }
+}

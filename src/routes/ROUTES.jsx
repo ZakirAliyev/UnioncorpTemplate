@@ -15,7 +15,7 @@ export const ROUTES = [
                 element: <></>
             },
             {
-                path: '/services',
+                path: '/Services',
                 element: <></>
             },
             {

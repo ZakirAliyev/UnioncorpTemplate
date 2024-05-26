@@ -1,0 +1,51 @@
+#watchVideo {
+  background-image: url("https://preview.colorlib.com/theme/unioncorp/images/bg_4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 128px 0;
+
+  .box {
+
+    h2 {
+      font-size: 13px;
+      margin: 0 0 5px;
+      color: #AAACB2;
+      font-weight: 400;
+    }
+
+    h3 {
+      font-size: 38px;
+      margin: 0 0 24px;
+      font-weight: 500;
+    }
+
+    p {
+      font-size: 16px;
+      margin: 0 0 16px;
+      color: #8C8C8C;
+    }
+
+    .box1 {
+      margin: 24px 0 0;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+
+      .circle {
+        border-radius: 50%;
+        height: 80px;
+        width: 80px;
+        background-color: #4F86F9;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+      }
+
+      h4 {
+        color: #4F86F9;
+      }
+    }
+  }
+}
